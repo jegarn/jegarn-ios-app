@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5F0038AD7CC825AF28E0F7DFEC27F5D9"
-               BlueprintName = "MPMessagePack"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "libMPMessagePack.a">
+               BuildableIdentifier = 'primary'
+               BlueprintIdentifier = '660EA6C9A27BAEF272E81655'
+               BlueprintName = 'MPMessagePack'
+               ReferencedContainer = 'container:Pods.xcodeproj'
+               BuildableName = 'libMPMessagePack.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

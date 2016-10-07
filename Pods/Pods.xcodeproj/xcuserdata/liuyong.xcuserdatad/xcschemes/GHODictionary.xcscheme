@@ -13,11 +13,11 @@
             buildForProfiling = "YES"
             buildForArchiving = "YES">
             <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "565038AF2068983C14F1DA708F0D5419"
-               BlueprintName = "GHODictionary"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "libGHODictionary.a">
+               BuildableIdentifier = 'primary'
+               BlueprintIdentifier = '1E8764BCA1D67B3A43856C0D'
+               BlueprintName = 'GHODictionary'
+               ReferencedContainer = 'container:Pods.xcodeproj'
+               BuildableName = 'libGHODictionary.a'>
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

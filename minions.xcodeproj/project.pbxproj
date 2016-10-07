@@ -149,6 +149,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		AF74510596966F1AB477A1EE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = B18BB00F08879B87F2A2BD533E910C40;
+			remoteInfo = YYKeyboardManager;
+		};
 		AF74513B51754893819C54CC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = AF745434BC82E88DC847D2CB /* Project object */;
@@ -156,12 +163,75 @@
 			remoteGlobalIDString = AF745E8C5A5EEB4290B5AE77;
 			remoteInfo = minions;
 		};
+		AF7451DF0851FE2AACD6E68E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 913B00B911B3CA4BBF4A4F99FCE4F83B;
+			remoteInfo = YYImage;
+		};
+		AF745447FFA0550427C7851C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = E7BE2580469C41604CD37B22903FAA58;
+			remoteInfo = GHODictionary;
+		};
+		AF7455C4AB9082E0FA6A6BA5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 04124059E3AEC74A01D161AF446A2B3C;
+			remoteInfo = YYWebImage;
+		};
+		AF7457B4BB30AEE8B560560D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C154C3B26E2331D5A65DB8E9F769FC4D;
+			remoteInfo = MPMessagePack;
+		};
+		AF7457EEDC9FDB99A1309FC0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = BE52FD8A3F6B2AA399B1C1B29CF48B53;
+			remoteInfo = AFNetworking;
+		};
+		AF745816E650140FC1DFE68F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 352E0FA25482B5A7BD447155D4FE4607;
+			remoteInfo = YYCache;
+		};
+		AF7459D8CAABB0A161D60F19 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = C31794FF9EB1A853FD80E74472CDBBF8;
+			remoteInfo = "Pods-minions";
+		};
 		AF745B6E4683B549610F8963 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = AF745434BC82E88DC847D2CB /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = AF745E8C5A5EEB4290B5AE77;
 			remoteInfo = minions;
+		};
+		AF745B8ADE34DA41A18D1FCE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 3EFC8D82B3E1F5FEE3C3679F8C5DD885;
+			remoteInfo = YYModel;
+		};
+		AF745FD89C008EA054FA5165 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 0230E9D38DA4FE3AF5BD998B6C94055D;
+			remoteInfo = UICKeyChainStore;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -194,6 +264,7 @@
 		AF7451E02219A79C4BEE0890 /* YGHttpManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = YGHttpManager.h; path = Libraries/Networks/Http/YGHttpManager.h; sourceTree = "<group>"; };
 		AF7452482E0BED56F0FEE19F /* JegarnListenerExample.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = JegarnListenerExample.m; path = Libraries/Jegarn/Example/JegarnListenerExample.m; sourceTree = "<group>"; };
 		AF745273F9BE7B2086DDE2B0 /* YGHttpTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YGHttpTest.m; path = Libraries/Tests/YGHttpTest.m; sourceTree = "<group>"; };
+		AF7452949B9980873D1D2732 /* Pods.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Pods.xcodeproj; path = Pods/Pods.xcodeproj; sourceTree = "<group>"; };
 		AF7452A8EE1741F2EBC85B75 /* YGNSStreamTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = YGNSStreamTest.m; path = Libraries/Tests/YGNSStreamTest.m; sourceTree = "<group>"; };
 		AF7452E4CADADF15ACEA59DA /* MNChatRoomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MNChatRoomViewController.h; sourceTree = "<group>"; };
 		AF7452FD85950789E8924868 /* MNChatMessageModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MNChatMessageModel.m; path = Message/MNChatMessageModel.m; sourceTree = "<group>"; };
@@ -452,6 +523,7 @@
 				D621908945BD24F142ACEFB3 /* Pods */,
 				CB17FCF8A5379AFB05CFBBE5 /* Frameworks */,
 				AF745BA8F96F0CEA21BF262C /* README.md */,
+				AF7452949B9980873D1D2732 /* Pods.xcodeproj */,
 			);
 			sourceTree = "<group>";
 		};
@@ -708,6 +780,23 @@
 				AF745B4413527B25B87E5A1E /* MNBaseChatTableViewCell.m */,
 			);
 			path = BaseChatTableViewCell;
+			sourceTree = "<group>";
+		};
+		AF74572EC92174111A57B6A9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AF745CA596F6969046B94FDB /* libAFNetworking.a */,
+				AF74559999A420BFD2F31158 /* libGHODictionary.a */,
+				AF745D2AD5CBD9B9BF69D827 /* libMPMessagePack.a */,
+				AF7453F2C53CE6F371D36CE3 /* libPods-minions.a */,
+				AF745AC426CFF9B28333BB77 /* libUICKeyChainStore.a */,
+				AF7451805D3B25A4E8821EA9 /* libYYCache.a */,
+				AF7454B48C27E25E305B9039 /* libYYImage.a */,
+				AF7457E6F4F1178CCC444BB1 /* libYYKeyboardManager.a */,
+				AF7458349830B5B06BFC6945 /* libYYModel.a */,
+				AF745DC5B674DC77CB3A2B92 /* libYYWebImage.a */,
+			);
+			name = Products;
 			sourceTree = "<group>";
 		};
 		AF745793E250C825A3ABD182 /* tab_groupchat */ = {
@@ -1003,6 +1092,12 @@
 			mainGroup = AF7450BB61D41C4906C31EA4;
 			productRefGroup = AF745A463B8F193303DB7BD4 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = AF74572EC92174111A57B6A9 /* Products */;
+					ProjectRef = AF7452949B9980873D1D2732 /* Pods.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				AF745E8C5A5EEB4290B5AE77 /* minions */,
@@ -1011,6 +1106,79 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		AF7451805D3B25A4E8821EA9 /* libYYCache.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libYYCache.a;
+			remoteRef = AF745816E650140FC1DFE68F /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF7453F2C53CE6F371D36CE3 /* libPods-minions.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = "libPods-minions.a";
+			remoteRef = AF7459D8CAABB0A161D60F19 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF7454B48C27E25E305B9039 /* libYYImage.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libYYImage.a;
+			remoteRef = AF7451DF0851FE2AACD6E68E /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF74559999A420BFD2F31158 /* libGHODictionary.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libGHODictionary.a;
+			remoteRef = AF745447FFA0550427C7851C /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF7457E6F4F1178CCC444BB1 /* libYYKeyboardManager.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libYYKeyboardManager.a;
+			remoteRef = AF74510596966F1AB477A1EE /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF7458349830B5B06BFC6945 /* libYYModel.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libYYModel.a;
+			remoteRef = AF745B8ADE34DA41A18D1FCE /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF745AC426CFF9B28333BB77 /* libUICKeyChainStore.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libUICKeyChainStore.a;
+			remoteRef = AF745FD89C008EA054FA5165 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF745CA596F6969046B94FDB /* libAFNetworking.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libAFNetworking.a;
+			remoteRef = AF7457EEDC9FDB99A1309FC0 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF745D2AD5CBD9B9BF69D827 /* libMPMessagePack.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libMPMessagePack.a;
+			remoteRef = AF7457B4BB30AEE8B560560D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		AF745DC5B674DC77CB3A2B92 /* libYYWebImage.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libYYWebImage.a;
+			remoteRef = AF7455C4AB9082E0FA6A6BA5 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		AF74503DD658F627B684E45E /* Resources */ = {
